@@ -22,6 +22,7 @@ const AppRoutes: React.FC = () => (
   >
     <App.Screen
       options={{
+        headerTitleAlign: 'center',
         headerShown: true,
         headerTransparent: true,
         headerTitle: () => <Image source={Logo} />,
