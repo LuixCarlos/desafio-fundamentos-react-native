@@ -2,7 +2,7 @@
 
 ### Sobre o desafio
 
-- Desafio 08 onde foi desenvolvido uma nova aplicação, a GoMarketplace. Colocando em praticar o que foi aprendido até agora no React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
+- Desafio 08 onde foi desenvolvido uma nova aplicação, a GoMarketplace. Colocando em pratica o que foi aprendido até agora no React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
 
 ### Testes
 - Após a implementação os testes devem ser executados para que possa ser avaliado todos os pontos do desafio proposto. Para esse desafio, temos os seguintes testes:
